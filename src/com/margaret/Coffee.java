@@ -57,7 +57,7 @@ public class Coffee {
         }
     } // end numVal fn
 
-    // this method name is very similar to cupsInput, it takes in a Scanner from main
+    // this method takes in a Scanner from main
     // gets and tests user input for the price of a particular drink sold in a day and 
     // puts the information in that drink's price var
 
