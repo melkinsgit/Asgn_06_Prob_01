@@ -32,7 +32,9 @@ public class Coffee {
         this.bev = bev;
     }
 
-    // this method name is altered from the original coffee shop program, it takes in a Scanner from main, gets and tests user input for the number of a particular drink sold in a day and puts the information in that drink's salesToday var
+    // this method name is altered from the original coffee shop program, it takes in a Scanner from main
+    // gets and tests user input for the number of a particular drink sold in a day and puts the information
+    // in that drink's salesToday var
 
     public void setDaySales (Scanner x) {  // I decided to use the set name because that's essentially what it does, same with the setPrice method
 
@@ -55,7 +57,9 @@ public class Coffee {
         }
     } // end numVal fn
 
-    // this method name is very similar to cupsInput, it takes in a Scanner from main, gets and tests user input for the price of a particular drink sold in a day and puts the information in that drink's price var
+    // this method name is very similar to cupsInput, it takes in a Scanner from main
+    // gets and tests user input for the price of a particular drink sold in a day and 
+    // puts the information in that drink's price var
 
     public void setPrice (Scanner x) {
 
